@@ -1,6 +1,6 @@
 <div style="display:flex; align-items: center;">
   <div>
-    <h1><img src="https://github.com/Kepler-nn/Midori/assets/153543216/81358473-5e74-47c5-80fd-eb38580932b9" alt="Мидори" width="300" height="500"># Мидори — голосовой помощник, который поможет вам в работе.</h1>
+    <h1><img src="https://github.com/Kepler-nn/Midori/assets/153543216/dcb61767-9ed9-4c1a-befe-4bd05b359540" alt="Мидори" width="200" height="200"># Мидори — голосовой помощник, который поможет вам в работе.</h1>
     <h3>На данный момент в Мидори доступно 9 команд:</h3>
     <ul>
       <li>Открытие программ:
