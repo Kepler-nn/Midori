@@ -1,5 +1,4 @@
 import webbrowser
-import json
 import sys
 import os
 import random
